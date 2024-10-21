@@ -29,7 +29,8 @@ Iata un [link][link1] catre site-ul Google.
 Varianta prescurtata a linkurilor referentiale :
 
 Iata un link [important] catre site ul Google.
+[important]: https://google.com/
 
 #### Linkuri catre imagini 
 
-![Text descriptiv imagine].(|).
+![Text descriptiv imagine](|).
