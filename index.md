@@ -26,7 +26,7 @@ Tipuri de linkuri in Markdown
 
 ## Linkurile clasice
 **Variante**
-[Textul linkului](https://google.com/)
+[Textul linkului](https://metricop.com/cdn/shop/articles/trimble-total-station.jpg?v=1677673954&width=720)
 [Textul linkului](https://google.com/)
 
 #### Linkurile referentiale
