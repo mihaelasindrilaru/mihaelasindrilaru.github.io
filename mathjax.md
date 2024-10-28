@@ -65,8 +65,14 @@ $$a = (b+c)^{3x} - [3+6x]$$
 
 *Exemplu:*
 
-`\frac{numarator}{numitor}
+`\frac{numarator}{numitor}`
 
 $$ a = \frac{(a+bc)}{(d-c)} $$
 
+# Semnele de multiplicare si respectiv diviziune
+
+*Exemple:*
+
+$$ a = c + 10 \times x $$
+$$ a = c + 10 \cdot x $$
 
