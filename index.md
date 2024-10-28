@@ -1,4 +1,4 @@
-![Text descriptiv imagine](https://metricop.com/cdn/shop/articales/trimble-total-station.jpg?v=1677673954&width=1100)
+![Text descriptiv imagine](https://metricop.com/cdn/shop/articales/triable-total-station.jpg?v=1677673954&width=1100)
 
 **Cuprins**
 
