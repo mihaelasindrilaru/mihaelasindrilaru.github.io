@@ -5,7 +5,7 @@
 [Elemente avansate de Markdown}(avansate.md)
 
 
-# Impementarea relatiilor in Markdown 
+# Implementarea relatiilor in Markdown 
 
 ## Implementarea relatiilor/legaturilor catre alte fisiere
 
