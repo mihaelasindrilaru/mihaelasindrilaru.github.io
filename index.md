@@ -2,7 +2,9 @@
 
 **Cuprins**
 
-[Elemente avansate de Markdown}(avansate.md)
+[Elemente avansate de Markdown](avansate.md)
+
+[Formule cu mathjax](mathjax.md)
 
 
 # Implementarea relatiilor in Markdown 
