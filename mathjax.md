@@ -20,6 +20,13 @@ $$a=b^c$$
 
 # Ridicarea la putere
 
+se foloseste meta-caracterul `Latex` : `^`
+
+Exemplu:
+
+$$a=10^7$$
+
+
 
 
 
