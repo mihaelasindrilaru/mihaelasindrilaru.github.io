@@ -8,6 +8,8 @@
 
 [Matrice si ecuatii cu MathJax](mathjax2.md)
 
+[Diagrame Mermaid](/diagrame/)
+
 ***
 
 
