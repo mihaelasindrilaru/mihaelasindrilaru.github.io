@@ -1,10 +1,14 @@
 ![Text descriptiv imagine](https://metricop.com/cdn/shop/articles/trimble-total-station.jpg?v=1677673954&width=720)
 
-**Cuprins**
+**Cuprins**:
 
 [Elemente avansate de Markdown](avansate.md)
 
 [Formule cu mathjax](mathjax.md)
+
+[Matrice si ecuatii cu MathJax](mathjax2.md)
+
+***
 
 
 # Implementarea relatiilor in Markdown 
