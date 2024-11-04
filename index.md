@@ -46,4 +46,4 @@ Iata un link [important] catre site ul Google.
 
 #### Linkuri catre imagini 
 
-![Text descriptiv imagine](|).
+![Text descriptiv imagine](https://metricop.com/cdn/shop/articles/trimble-total-station.jpg?v=1677673954&width=720).
